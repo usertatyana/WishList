@@ -85,3 +85,22 @@ fieldset {
     font-size: 34px;
     color: #365ABA;
 }
+
+.btn_castling {
+    background: #365ABA;
+    color: #FFFFFF;
+}
+
+/* !todo */
+
+.hero {
+    display: none;
+}
+
+.wishlist {
+    display: none;
+}
+
+.edit {
+    /* display: none; */
+}
